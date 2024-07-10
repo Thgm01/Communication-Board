@@ -1,4 +1,4 @@
-23699849136308715
+23703290103094578
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -96592,3 +96592,17 @@ Crystal or Oscillator
 0
 2
 2
+humanoid
+20MHZ_CRYSTAL
+11.40mm x 4.80mm
+Crystal or Oscillator
+0
+2
+2
+humanoid
+MINI_FUSE
+3557-2
+Connector
+0
+4
+4
