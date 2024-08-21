@@ -1826,6 +1826,76 @@
 			)
 		)
 	)
+	(footprint ""
+		(layer "F.Cu")
+		(uuid "273c243c-2322-4214-877f-f8bd04903039")
+		(at 132.8 109.5)
+		(property "Reference" ""
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "1d577d66-4005-49ea-87bd-39352a69948e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "131d32e9-e951-4106-a808-0c1fc931ce62")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bcccf030-bb9d-4f7e-a386-d5cdcc81f534")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1a48d46d-11ed-4768-aa31-551367934521")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1617e994-c8da-4ff5-9fde-397bdb278182")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 2.1 2.1)
+			(drill 2.1)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "a65c5ea0-ccdb-4c53-af69-169e526c4c3d")
+		)
+	)
 	(footprint "Resistor_SMD:R_1206_3216Metric"
 		(layer "F.Cu")
 		(uuid "29d8f3f5-804b-42a0-937f-c1d9c8341801")
@@ -2250,6 +2320,76 @@
 			(rotate
 				(xyz 0 0 0)
 			)
+		)
+	)
+	(footprint ""
+		(layer "F.Cu")
+		(uuid "3556f284-98a4-4bc6-9fc6-08dec82f8960")
+		(at 132.8 93.2)
+		(property "Reference" ""
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "1d577d66-4005-49ea-87bd-39352a69948e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "131d32e9-e951-4106-a808-0c1fc931ce62")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bcccf030-bb9d-4f7e-a386-d5cdcc81f534")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1a48d46d-11ed-4768-aa31-551367934521")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1617e994-c8da-4ff5-9fde-397bdb278182")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 2.1 2.1)
+			(drill 2.1)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "a65c5ea0-ccdb-4c53-af69-169e526c4c3d")
 		)
 	)
 	(footprint "MountingHole:MountingHole_3mm_Pad_Via"
@@ -9665,6 +9805,76 @@
 			)
 		)
 	)
+	(footprint ""
+		(layer "F.Cu")
+		(uuid "e59faa6c-f6d7-4fce-b91f-cc2db276b627")
+		(at 111.2 109.5)
+		(property "Reference" ""
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "1d577d66-4005-49ea-87bd-39352a69948e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "131d32e9-e951-4106-a808-0c1fc931ce62")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bcccf030-bb9d-4f7e-a386-d5cdcc81f534")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1a48d46d-11ed-4768-aa31-551367934521")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1617e994-c8da-4ff5-9fde-397bdb278182")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 2.1 2.1)
+			(drill 2.1)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "a65c5ea0-ccdb-4c53-af69-169e526c4c3d")
+		)
+	)
 	(footprint "Capacitor_SMD:C_1206_3216Metric"
 		(layer "F.Cu")
 		(uuid "ebd11c6f-739d-4434-b00e-134504598ad9")
@@ -10966,6 +11176,76 @@
 			)
 		)
 	)
+	(footprint ""
+		(layer "F.Cu")
+		(uuid "fe8817ce-e714-464a-84cb-e2d66eec9ae6")
+		(at 111.2 93.2)
+		(property "Reference" ""
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "1d577d66-4005-49ea-87bd-39352a69948e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "131d32e9-e951-4106-a808-0c1fc931ce62")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bcccf030-bb9d-4f7e-a386-d5cdcc81f534")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1a48d46d-11ed-4768-aa31-551367934521")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1617e994-c8da-4ff5-9fde-397bdb278182")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 2.1 2.1)
+			(drill 2.1)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "a65c5ea0-ccdb-4c53-af69-169e526c4c3d")
+		)
+	)
 	(footprint "Capacitor_SMD:C_1206_3216Metric"
 		(layer "F.Cu")
 		(uuid "feec3ad6-7e9e-4e12-9a5c-206f3e3effea")
@@ -11180,15 +11460,15 @@
 		)
 	)
 	(gr_rect
-		(start 108.25 90.75)
-		(end 135 118.5)
+		(start 107.75 90.5)
+		(end 136.25 119)
 		(stroke
 			(width 0.2)
 			(type default)
 		)
 		(fill none)
 		(layer "F.SilkS")
-		(uuid "29b6b3ad-cf65-42bc-bf9b-c102f1ea5d44")
+		(uuid "a0ccf4ef-0c63-4556-8c11-088fa7fb8cf5")
 	)
 	(gr_arc
 		(start 193.5 92)
