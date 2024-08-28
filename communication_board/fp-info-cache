@@ -1,4 +1,4 @@
-23762618844899238
+23766068596055730
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57826,6 +57826,20 @@ heatsink
 0
 0
 0
+Humanoid
+XM_conn_horizontal-S4B-EH
+JST EH series connector, S4B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH horizontal
+0
+4
+4
+Humanoid
+XM_conn_vertical-B4B-EH-A
+JST EH series connector, B4B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH vertical
+0
+4
+4
 Humanoid
 logo_media
 
